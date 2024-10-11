@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <span style="color:#f9c846; font-weight:bold;">Ahamed</span> 👋</h1>
+<h1 align="center">🌟 Hi there, I'm <span style="color:#f9c846; font-weight:bold;">Ahamed</span> 👋</h1>
 <h3 align="center">🚀 Software Engineering Student at SLIIT | Tech Enthusiast | Lifelong Learner 🌟</h3>
 
 <p align="center">
@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=F70000&lines=Welcome+to+my+Profile;Software+Engineering+Student;Lifelong+Learner;Tech+Enthusiast" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=F70000&lines=Welcome+to+my+Profile;Software+Engineering+Student;Lifelong+Learner;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
@@ -14,8 +14,8 @@
 ## 🎉 About Me:
 
 - 🎓 I'm a **<span style="color: #FF6347;">Software Engineering Student at SLIIT</span>** with a deep passion for **technology** and **problem-solving**.
-- 🔭 I’m currently working on **Fuel Station Management System** 🚗.
-- 🌱 I'm diving into **Python** and **AI technologies** 🤖.
+- 🔭 Currently working on **Fuel Station Management System** 🚗.
+- 🌱 Diving into **Python** and **AI technologies** 🤖.
 - 💬 Feel free to ask me about **Web Development, Mobile Development, and Open Source** 🛠️.
 - 🎮 Fun fact: I enjoy gaming 🎮 and exploring new technologies!
 
@@ -43,8 +43,12 @@
 
 ## 🚀 Projects:
 
-- 💡 **[Fuel Station Management System](https://github.com/Ahamed-Rahman/ZenoFuelStation_ITP)**: A powerful platform for managing fuel stations 🚗.
-- 📝 **[Task Management App](https://github.com/Ahamed-Rahman/MindMap)**: A sleek app to organize your daily tasks efficiently.
+<div align="center">
+  <ul>
+    <li>💡 **[Fuel Station Management System](https://github.com/Ahamed-Rahman/ZenoFuelStation_ITP)**: A powerful platform for managing fuel stations 🚗.</li>
+    <li>📝 **[Task Management App](https://github.com/Ahamed-Rahman/MindMap)**: A sleek app to organize your daily tasks efficiently.</li>
+  </ul>
+</div>
 
 ---
 
@@ -85,3 +89,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ahamed-Rahman&color=blue&style=for-the-badge" alt="Profile views" />
 </p>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/8b/3c/96/8b3c9651ed858d40328a70c89b8e45bc.gif" alt="Animated GIF" width="300" />
+</p>
+
+---

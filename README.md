@@ -45,8 +45,8 @@
 
 <div align="center">
   <ul>
-    <li>💡 **[Fuel Station Management System](https://github.com/Ahamed-Rahman/ZenoFuelStation_ITP)**: A powerful platform for managing fuel stations 🚗.</li>
-    <li>📝 **[Task Management App](https://github.com/Ahamed-Rahman/MindMap)**: A sleek app to organize your daily tasks efficiently.</li>
+    <li>💡[Fuel Station Management System](https://github.com/Ahamed-Rahman/ZenoFuelStation_ITP): A powerful platform for managing fuel stations 🚗.</li>
+    <li>📝 [Task Management App](https://github.com/Ahamed-Rahman/MindMap): A sleek app to organize your daily tasks efficiently.</li>
   </ul>
 </div>
 

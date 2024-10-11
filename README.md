@@ -13,6 +13,10 @@
 
 ## 🎉 About Me:
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26AOSO5R2M2tpe3X6/giphy.gif" width="300" alt="About Me Animation"/>
+</p>
+
 - 🎓 I'm a **<span style="color: #FF6347;">Software Engineering Student at SLIIT</span>** with a deep passion for **technology** and **problem-solving**.
 - 🔭 Currently working on **Fuel Station Management System** 🚗.
 - 🌱 Diving into **Python** and **AI technologies** 🤖.
@@ -24,6 +28,7 @@
 ## 💻 Skills & Tools:
 
 <div align="center">
+  <h4>🛠️ My Toolbox:</h4>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -44,8 +49,9 @@
 ## 🚀 Projects:
 
 <div align="center">
-  <ul>
-    <li>💡[Fuel Station Management System](https://github.com/Ahamed-Rahman/ZenoFuelStation_ITP): A powerful platform for managing fuel stations 🚗.</li>
+  <h4>💡 My Projects:</h4>
+  <ul style="list-style-type: none;">
+    <li>💡 [Fuel Station Management System](https://github.com/Ahamed-Rahman/ZenoFuelStation_ITP): A powerful platform for managing fuel stations 🚗.</li>
     <li>📝 [Task Management App](https://github.com/Ahamed-Rahman/MindMap): A sleek app to organize your daily tasks efficiently.</li>
   </ul>
 </div>
@@ -64,6 +70,7 @@
 ## 🏆 Achievements:
 
 <div align="center">
+  <h4>🏅 My Achievements:</h4>
   <img src="https://github-profile-trophy.vercel.app/?username=Ahamed-Rahman&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
@@ -76,6 +83,7 @@
 ## 🔗 Let's Connect:
 
 <p align="center">
+  <h4>📬 Reach Out:</h4>
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
@@ -90,8 +98,12 @@
   <img src="https://komarev.com/ghpvc/?username=Ahamed-Rahman&color=blue&style=for-the-badge" alt="Profile views" />
 </p>
 
-<p align="center">
+<div align="center">
   <img src="https://i.pinimg.com/originals/8b/3c/96/8b3c9651ed858d40328a70c89b8e45bc.gif" alt="Animated GIF" width="300" />
-</p>
+</div>
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0GqvWJbESN56LDES/giphy.gif" width="300" alt="Footer Animation"/>
+</p>

@@ -43,8 +43,8 @@
 
 ## 🚀 Projects:
 
-- 💡 **[Fuel Station Management System](https://github.com/Ahamed-Rahman/fuel-station-management-system)**: A powerful platform for managing fuel stations 🚗.
-- 📝 **[Task Management App](https://github.com/Ahamed-Rahman/task-management-app)**: A sleek app to organize your daily tasks efficiently.
+- 💡 **[Fuel Station Management System](https://github.com/Ahamed-Rahman/ZenoFuelStation_ITP)**: A powerful platform for managing fuel stations 🚗.
+- 📝 **[Task Management App](https://github.com/Ahamed-Rahman/MindMap)**: A sleek app to organize your daily tasks efficiently.
 
 ---
 
